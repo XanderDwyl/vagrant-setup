@@ -1,0 +1,4 @@
+/loansolutions
+.vagrant
+*.ppk
+*.pub
